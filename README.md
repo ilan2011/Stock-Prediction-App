@@ -4,11 +4,6 @@ This repository contains the implementation of a simple stock price predictor us
 
 The script uses Long Short Term Memory (LSTM), a type of Recurrent Neural Network (RNN), to predict the closing price of a chosen stock using past 60 days of stock data.
 
-Demo
-
-Disclaimer
-The predictions made by this program are for educational purposes only. Always consult with a certified financial advisor before making investment decisions.
-
 How to use
 Input a valid stock symbol in the text box.
 The script downloads the historical data for that stock, performs preprocessing and trains a LSTM model.
